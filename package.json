@@ -1,0 +1,32 @@
+{
+  "name": "hsa-eoy",
+  "title": "HSA End of Year page",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rstims/hsa-eoy",
+  "author": "Ryan Stimmler",
+  "license": {
+    "type": "MIT"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.13.0",
+    "font-awesome": "^4.6.3",
+    "grunt": "~0.4.5",
+    "grunt-contrib-csslint": "^1.0.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sftp-deploy": "^0.2.5",
+    "load-grunt-tasks": "^3.5.2",
+    "jquery": "^1.11.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rstims/hsa-eoy.git"
+  },
+  "dependencies": {
+    "simple-line-icons": "^2.3.2"
+  }
+}
